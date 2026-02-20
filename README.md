@@ -1,9 +1,9 @@
-<h1 align="center">👋 Juan España</h1>
+<h1 align="center">👋 Jaime Alberto San Luis Briceño</h1>
 <h3 align="center">💻 Desarrollador de Software</h3>
 
-<p align="center">
-  <img src="perfil.jpg" width=300 />
-</p>
+<!-- <p align="center">
+  <img src="images/perfil.jpg" width=300 />
+</p> -->
 
 <p align="center">
 🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
