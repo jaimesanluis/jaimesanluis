@@ -1,9 +1,10 @@
 <h1 align="center">👋 Jaime Alberto San Luis Briceño</h1>
-<h3 align="center">💻 Desarrollador de Software</h3>
 
  <p align="center">
-  <img src="jaimesanluis.jpg" width=300 />
-</p> 
+  <img src="Jaimesanluis.jpg" width=300 />
+</p>
+
+<h3 align="center"> Desarrollador de Software ❄️</h3>
 
 <p align="center">
 🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
