@@ -47,7 +47,7 @@ Java · Android Studio
 
 Aplicación móvil desarrollada en Android para gestión de tareas.
 
-➡️ [Ver repositorio](https://github.com/juanespana/PROYECTO_ANDROID)
+➡️ [Ver repositorio](https://github.com/jaimesanluis/PROYECTO_ANDROID)
 
 </td>
 
@@ -58,7 +58,7 @@ Java · Spring · Maven
 
 Backend REST para gestión de datos y servicios.
 
-➡️ [Ver repositorio](https://github.com/juanespana/API_REST)
+➡️ [Ver repositorio](https://github.com/jaimesanluis/API_REST)
 
 </td>
 
@@ -69,7 +69,7 @@ React / Web
 
 Panel interactivo de visualización de datos.
 
-➡️ [Ver repositorio](https://github.com/juanespana/DASHBOARD)
+➡️ [Ver repositorio](https://github.com/jaimesanluis/DASHBOARD)
 
 </td>
 
@@ -81,7 +81,7 @@ Panel interactivo de visualización de datos.
 ## 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,sqlite,git,github,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,androidstudio,maven,sqlite,git,github,html,css,js,md,vscode,postgres" />
 </p>
 
 ---
