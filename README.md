@@ -23,7 +23,7 @@
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí 
 
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por crear software útil, eficiente y bien diseñado.
 
