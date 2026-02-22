@@ -1,7 +1,7 @@
 <h1 align="center">👋 Jaime Alberto San Luis Briceño</h1>
 
  <p align="center">
-  <img src="Jaimesanluis.jpg" width=300 />
+  <img src="./Jaimesanluis.jpg" width=300 />
 </p>
 
 <h3 align="center"> Desarrollador de Software ❄️</h3>
