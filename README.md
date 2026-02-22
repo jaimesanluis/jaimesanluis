@@ -13,10 +13,10 @@
   <a href="https://linkedin.com/in/TU_PERFIL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:jaimesanluis0@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/juanespana">
+  <a href="https://github.com/jaimesanluis">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -105,17 +105,17 @@ Panel interactivo de visualización de datos.
 
 ---
 
-<!-- ## 📫 Contacto
+ ## 📫 Contacto
 
 <p align="center">
 
-💼 LinkedIn — https://linkedin.com/in/TU_PERFIL  
-📧 Email — TU_EMAIL  
+💼 LinkedIn — https://www.linkedin.com/in/jaime-alberto-san-luis-brice%C3%B1o-94188b3b2/  
+📧 Email — jaimesanluis0@gmail.com  
 🌐 Portfolio — https://TU_WEB  
 
 </p>
 
---- -->
+--- 
 
 <p align="center">
 ⭐ Gracias por visitar mi perfil — github.com/jaimesanluis
