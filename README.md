@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_PERFIL">
+  <a href="www.linkedin.com/in/jaime-alberto-san-luis">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jaimesanluis0@gmail.com">
@@ -109,7 +109,7 @@ Panel interactivo de visualización de datos.
 
 <p align="center">
 
-💼 LinkedIn — https://www.linkedin.com/in/jaime-alberto-san-luis-brice%C3%B1o-94188b3b2/  
+💼 LinkedIn — www.linkedin.com/in/jaime-alberto-san-luis  
 📧 Email — jaimesanluis0@gmail.com  
 🌐 Portfolio — https://TU_WEB  
 
