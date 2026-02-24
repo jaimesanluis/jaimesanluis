@@ -123,9 +123,12 @@ Panel interactivo de visualización de datos.
 
 ---
 ## Objetivo 🌟
-<p>
+<p align="center">
  Aprender nuevas tecnologías y crecer como desarrollador de software ampliando, adquiriendo y compactando mis conocimientos,para
 participar en proyectos reales.
+</p>
+<p align="center">
+ “Quiero seguir adelante sin arrepentirme de mis decisiones.” ⚔️🌸✨
 </p>
 
  ## 📫 Contacto
@@ -141,9 +144,6 @@ participar en proyectos reales.
 --- 
 
 <p align="center">
- “Quiero seguir adelante sin arrepentirme de mis decisiones.” ⚔️🌸✨
-</p>
-<a align="center">
  En constante avance, aprendizaje y crecimiento.
-</a>
+</p>
 
