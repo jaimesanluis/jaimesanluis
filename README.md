@@ -35,9 +35,12 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado po
 - 📚 Aprendizaje continuo  
 ---
 <p>
- Soy Jaime Alberto San Luis Briceño, nací 
+ Soy Jaime Alberto San Luis Briceño, viví 17 años en Venezuela y despues vine a vivir a Tenerife España. Ahora soy estudiante de el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM).
 </p>
-
+---
+<p>
+ Mis pasatiempos y aficiones son jugar videojuegos, ver series y sobre todo escuchar música, jugué y practique futbol desde pequeño y hoy en dia juego de vez en cuando. 
+</p>
 <!--
 ## ⭐ Proyectos Destacados
 
@@ -99,7 +102,7 @@ Panel interactivo de visualización de datos.
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -108,6 +111,7 @@ Panel interactivo de visualización de datos.
 </p>
 
 ---
+-->
 
  ## 📫 Contacto
 
@@ -122,5 +126,5 @@ Panel interactivo de visualización de datos.
 --- 
 
 <p align="center">
-⭐ Gracias por visitar mi perfil — github.com/jaimesanluis
+ Gracias por visitar mi perfil — github.com/jaimesanluis
 </p>
