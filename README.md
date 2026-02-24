@@ -7,7 +7,7 @@
 <h3 align="center"> Desarrollador de Software ✨</h3>
 
 <p align="center">
- Clean Code • 🌱 Open Source • ❤️ Tech Lover
+🌿 Clean Code • 🌱 Open Source • ❤️ Tech Lover
 </p>
 
 <p align="center">
@@ -35,9 +35,9 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado po
 - 📚 Aprendizaje continuo  
 ---
 <p>
- Soy Jaime Alberto San Luis Briceño, 
+ Soy Jaime Alberto San Luis Briceño, nací 
 </p>
----
+
 <!--
 ## ⭐ Proyectos Destacados
 
