@@ -37,7 +37,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado po
 <p>
  Soy Jaime Alberto San Luis Briceño, viví 17 años en Venezuela y despues vine a vivir a Tenerife España. Ahora soy estudiante de el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM).
 </p>
----
+
 <p>
  Mis pasatiempos y aficiones son jugar videojuegos, ver series y sobre todo escuchar música, jugué y practique futbol desde pequeño y hoy en dia juego de vez en cuando.
 </p>
