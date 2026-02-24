@@ -39,7 +39,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado po
 </p>
 ---
 <p>
- Mis pasatiempos y aficiones son jugar videojuegos, ver series y sobre todo escuchar música, jugué y practique futbol desde pequeño y hoy en dia juego de vez en cuando. 
+ Mis pasatiempos y aficiones son jugar videojuegos, ver series y sobre todo escuchar música, jugué y practique futbol desde pequeño y hoy en dia juego de vez en cuando.
 </p>
 <!--
 ## ⭐ Proyectos Destacados
@@ -119,7 +119,7 @@ Panel interactivo de visualización de datos.
 
 💼 LinkedIn — www.linkedin.com/in/jaime-alberto-san-luis  
 📧 Email — jaimesanluis0@gmail.com  
-🌐 Portfolio — https://TU_WEB  
+🌐 Portfolio — https://jaimesanluis.github.io  
 
 </p>
 
