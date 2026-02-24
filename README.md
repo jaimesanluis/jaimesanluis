@@ -122,6 +122,11 @@ Panel interactivo de visualización de datos.
 </p>
 
 ---
+## Objetivo 🌟
+<p>
+ Aprender nuevas tecnologías y crecer como desarrollador de software ampliando, adquiriendo y compactando mis conocimientos,para
+participar en proyectos reales.
+</p>
 
  ## 📫 Contacto
 
