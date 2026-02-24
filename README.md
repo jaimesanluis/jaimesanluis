@@ -4,10 +4,10 @@
   <img src="jaimesanluisbanner.jpg" width=800 />
 </p>
 
-<h3 align="center"> Desarrollador de Software ❄️</h3>
+<h3 align="center"> Desarrollador de Software ✨</h3>
 
 <p align="center">
-🧼 Clean Code • 🌱 Open Source • ❤️ Tech Lover
+ Clean Code • 🌱 Open Source • ❤️ Tech Lover
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ---
 
-## Sobre mí 
+## Acerca de mí 🐢
 
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por crear software útil, eficiente y bien diseñado.
 
@@ -33,7 +33,10 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado po
 - ⚙️ APIs REST con Java / Spring  
 - 🌍 Trabajo con metodologías ágiles  
 - 📚 Aprendizaje continuo  
-
+---
+<p>
+ Soy Jaime Alberto San Luis Briceño, 
+</p>
 ---
 <!--
 ## ⭐ Proyectos Destacados
