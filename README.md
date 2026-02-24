@@ -141,5 +141,9 @@ participar en proyectos reales.
 --- 
 
 <p align="center">
- Gracias por visitar mi perfil — github.com/jaimesanluis
+ “Quiero seguir adelante sin arrepentirme de mis decisiones.” ⚔️🌸✨
 </p>
+<a align="center">
+ En constante avance, aprendizaje y crecimiento.
+</a>
+
