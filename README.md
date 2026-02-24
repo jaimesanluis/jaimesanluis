@@ -113,6 +113,16 @@ Panel interactivo de visualización de datos.
 ---
 -->
 
+## 🧩 Metodologías ágiles
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kanban-FF8C00?style=for-the-badge"/>
+</p>
+
+---
+
  ## 📫 Contacto
 
 <p align="center">
